@@ -3,4 +3,4 @@
 
 void generateNumber(void);
 
-void bubbleSort(void); // Bubble sort - 'N squared' algorithm.
+void bubbleSort(int a[], int array_size); // Bubble sort - 'N squared' algorithm.

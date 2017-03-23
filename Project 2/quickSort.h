@@ -1,6 +1,5 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-void generateNumber(void);
 
-void quickSort(void);
+void quickSort(int number[25],int one,int two);
