@@ -14,3 +14,5 @@ This takes in some parameters from the user for array_size, min_range, max_range
 * QuickSort ->  __O(n*log n)__
 * ShellSort -> __O(n*log n)__
 * InsertionSort -> __O(n)__
+
+_The time complexity of the above is calculated as best-case*_
